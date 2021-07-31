@@ -1,3 +1,26 @@
+# Welcome to the README for my online CV
+
+## Why am I building this?
+
+Since graduating from Makers Academy I have decided I want to focus on front end development. I have taken an online course in React where I followed a tutorial, this is my first attempt at building a React application from scratch on my own. I plan for it to be a single page online CV that will showcase my React, JavaScript, CSS and HTML skills. I plan to write about the process on my blog, and difficulties I come across and how I overcome them.
+
+## Planning
+
+Sections of the webpage-
+
+- Intro/About
+- Skills - soft and technical?
+- Projects
+- Experience
+- Blog
+- Hobbies
+
+# Components I plan to build
+
+- Navbar
+- Links for Navbar for difference sections
+- Time - updating every millisecond
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
