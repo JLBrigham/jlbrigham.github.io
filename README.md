@@ -8,18 +8,28 @@ Since graduating from Makers Academy I have decided I want to focus on front end
 
 Sections of the webpage-
 
-- Intro/About
-- Skills - soft and technical?
-- Projects
-- Experience
-- Blog
-- Hobbies
+- Navbar- I would like this to have links to different sections of the page, unsure at the moment how to do this as I plan to have just a single page rather than multiple
+- Intro/About- Will include a heading with my name, a photo and a short paragraph introduction
+- Skills - soft and technical. List of soft skills with a small plus button to click which will expand for more details.
+- Projects - 3 projects next to each other, each with a title, photo and short description below. Title will be a link to the project.
+- Experience - Unsure how I would like to present past work exp at the moment
+- Blog - 3 featured blog posts, Each with title which is a link to the post, possibly pictures too?
+- Hobbies - 3 hobbies with photos of each that change every 5 seconds.
+- Contact - Form to send an email and get in contact
 
-# Components I plan to build
+# Ideas of components I plan to build
 
 - Navbar
 - Links for Navbar for difference sections
 - Time - updating every millisecond
+
+- Intro/about- <Photo/>, <Heading/>, <Textbox/>
+- Skills - <Skill/>, <Textbox/>, <InfoButton/>
+- Projects -
+- Experience
+- Blog
+- Hobbies
+- Contact - <Form/>
 
 # Getting Started with Create React App
 
