@@ -5,7 +5,7 @@ import Photo from "./Photo";
 function App() {
   return (
     <div>
-      <Header /> <Photo img="../public/pencilfavicon.jpeg" />
+      <Header /> <Photo img={"/profile-photo.jpeg"} />
     </div>
   );
 }
