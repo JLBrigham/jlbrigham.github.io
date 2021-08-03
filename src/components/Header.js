@@ -20,8 +20,6 @@ function Header() {
           Skills
         </Link>
       </li>
-      <li>Contact</li>
-      <li>Service</li>
     </ul>
   );
 }
