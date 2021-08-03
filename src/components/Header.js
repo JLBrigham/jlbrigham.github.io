@@ -1,9 +1,11 @@
 import React from "react";
 import { Link } from "react-scroll";
+import "./Header.css";
 
 function Header() {
   return (
     <ul
+      className="header-list"
       style={{
         display: "flex",
         listStyle: "none",
