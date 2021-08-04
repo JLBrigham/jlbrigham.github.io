@@ -2,6 +2,7 @@ import React from "react";
 import About from "./About";
 import Header from "./Header";
 import Skills from "./Skills";
+import Blog from "./Blog";
 import "./App.css";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         }
       />
       <Skills />
+      <Blog />
     </div>
   );
 }
