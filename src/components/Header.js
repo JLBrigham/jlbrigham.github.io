@@ -1,4 +1,5 @@
 import React from "react";
+// import { Navbar, Container, Nav } from "react-bootstrap";
 import { Link } from "react-scroll";
 import "./Header.css";
 
@@ -20,6 +21,11 @@ function Header() {
       <li>
         <Link to="skills" spy={true} smooth={true}>
           Skills
+        </Link>
+      </li>
+      <li>
+        <Link to="blog" spy={true} smooth={true}>
+          Blog
         </Link>
       </li>
     </ul>

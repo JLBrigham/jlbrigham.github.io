@@ -2,10 +2,11 @@ import React from "react";
 import About from "./About";
 import Header from "./Header";
 import Skills from "./Skills";
+import "./App.css";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Header />
       <About
         img={"/profile-photo.jpg"}
