@@ -4,5 +4,8 @@
   display: flex;
   justify-content: "space-around";
   list-style: none;
-  background-color: red;
+  background-color: #a6808c;
+  top: 0;
+  height: 90px;
+  margin: 0;
 }

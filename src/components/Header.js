@@ -20,7 +20,7 @@ function Header() {
     <ul
       className="header-list"
       style={{
-        display: "flex",
+        // display: "flex",
         listStyle: "none",
         justifyContent: "space-around",
       }}

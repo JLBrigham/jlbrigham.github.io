@@ -1,3 +1,9 @@
 .container {
   background-color: rgba(249, 248, 246, 255);
 }
+
+html,
+body {
+  margin: 0;
+  background-color: rgba(249, 248, 246, 255);
+}
