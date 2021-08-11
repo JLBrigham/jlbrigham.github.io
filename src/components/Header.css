@@ -1,4 +1,5 @@
 .header-list {
+  overflow: hidden;
   position: fixed;
   width: 100%;
   display: flex;
@@ -6,6 +7,6 @@
   list-style: none;
   background-color: #a6808c;
   top: 0;
-  height: 90px;
+  height: 50px;
   margin: 0;
 }
