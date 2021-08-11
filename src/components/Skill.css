@@ -1,0 +1,25 @@
+.skill {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.skill-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  cursor: pointer;
+  background-color: #21aeca;
+}
+
+.skill-title:hover {
+  background-color: #3ab4cc;
+}
+
+.skill-title,
+.skill-content {
+  padding: 1rem;
+}
+
+.skill-content {
+  background-color: #39b9d2;
+}
