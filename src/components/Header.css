@@ -2,11 +2,21 @@
   overflow: hidden;
   position: fixed;
   width: 100%;
-  display: flex;
-  justify-content: "space-around";
-  list-style: none;
-  background-color: #a6808c;
+  background-color: #fb6376;
   top: 0;
   height: 50px;
   margin: 0;
+}
+
+.list-wrapper {
+  display: flex;
+  list-style: none;
+  align-items: stretch;
+  justify-content: space-between;
+}
+
+.header-item {
+  display: block;
+  flex: 0 1 auto;
+  list-style-type: none;
 }
