@@ -5,7 +5,7 @@ import "./Skills.css";
 function Skills() {
   return (
     <div className="skills" id="skills">
-      <h1>This is a test skills section for testing the navbar</h1>
+      <h1 className="skills-title">Skills - both soft and technical </h1>
       <Skill
         title={"Problem solver and logical thinker"}
         content={

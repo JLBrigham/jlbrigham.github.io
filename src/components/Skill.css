@@ -1,6 +1,8 @@
 .skill {
   max-width: 600px;
   margin: 2rem auto;
+  /* position: relative; */
+  right: 380px;
 }
 
 .skill-title {
@@ -8,11 +10,11 @@
   flex-direction: row;
   justify-content: space-between;
   cursor: pointer;
-  background-color: #21aeca;
+  background-color: #d4e8dc;
 }
 
 .skill-title:hover {
-  background-color: #3ab4cc;
+  background-color: #d4e8dc;
 }
 
 .skill-title,
@@ -21,5 +23,6 @@
 }
 
 .skill-content {
-  background-color: #39b9d2;
+  background-color: #d4e8dc;
+  font-family: "Raleway", sans-serif;
 }
