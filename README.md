@@ -2,7 +2,7 @@
 
 ## Why am I building this?
 
-Since graduating from Makers Academy I have decided I want to focus on front end development. I have taken an online course in React where I followed a tutorial, this is my first attempt at building a React application from scratch on my own. I plan for it to be a single page online CV that will showcase my React, JavaScript, CSS and HTML skills. I plan to write about the process on my blog, and difficulties I come across and how I overcome them.
+I have taken an online course in React where I followed a tutorial, this is my first attempt at building a React application from scratch on my own. I plan for it to be a single page online CV that will showcase my React, JavaScript, CSS and HTML skills. I plan to write about the process on my blog, any difficulties I come across and how I overcome them.
 
 ## Planning
 
