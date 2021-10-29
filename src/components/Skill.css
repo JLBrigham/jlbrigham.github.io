@@ -24,6 +24,7 @@
 .skill-content {
   background-color: #d4e8dc;
   font-family: "Raleway", sans-serif;
+  white-space: pre-wrap;
 }
 
 .skill-item {

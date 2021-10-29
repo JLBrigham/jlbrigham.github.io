@@ -14,7 +14,7 @@ function App() {
           img={"/profile-photo.jpg"}
           name={"Joanna Brigham"}
           intro={
-            "Hi, I'm a junior full-stack engineer with a passion for front-end development. I'm currently looking for my first role in tech and would love to hear from you. I'm based in Chamonix, France."
+            "Hi, I'm a junior full-stack engineer with a passion for front-end development. I'm currently looking for my first role in tech and would love to hear from you. \n\n I'm based in Chamonix, France."
           }
         />
         <Skills />

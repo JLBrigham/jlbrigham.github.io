@@ -33,6 +33,7 @@
   line-height: 140%;
   color: #989da6;
   margin-left: 100px;
+  white-space: pre-wrap;
 }
 
 .my-name {
