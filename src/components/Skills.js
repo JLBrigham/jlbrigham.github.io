@@ -1,5 +1,6 @@
 import React from "react";
 import Skill from "./Skill";
+import TechSkill from "./TechSkill";
 import "./Skills.css";
 
 function Skills() {
@@ -29,7 +30,12 @@ function Skills() {
             }
           />
         </div>
-        <div className="tech-skills-container"></div>
+        <div className="tech-skills-container">
+          <h2>Tech I have experience with:</h2>
+          <div className="tech-skills">
+            <TechSkill skill={"HTML"} />
+          </div>
+        </div>
       </div>
     </div>
   );
