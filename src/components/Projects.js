@@ -6,13 +6,29 @@ function Projects() {
   return (
     <div className="projects" id="projects">
       <div className="projects-title-container">
-        <h1 className="projects-title">Projects - Coming Soon . . .</h1>
+        <h1 className="projects-title">Projects</h1>
       </div>
       <div className="projects-container">
         <Project
-          //   img={"Image to be sourced"}
+          img={"/grappitude.png"}
           title={"Grappitude"}
-          description={"Brief description of project and tech used"}
+          description={
+            "A React Native (MERN) mobile app to encourage users to keep a positive mindset. My final group project at Makers, I focussed on the front-end and the building of the user progress bar."
+          }
+        />
+        <Project
+          img={"/chitter.png"}
+          title={"Chitter"}
+          description={
+            "A Twitter clone, full-stack, CRUD web app built with Ruby, Sinatra, PostgreSQL and Rspec and Capybara for testing. This was a solo project and an early example of me developing my CSS skills."
+          }
+        />
+        <Project
+          img={"/notes.jpeg"}
+          title={"Note Taker"}
+          description={
+            "A front-end, JavaScript-only web app for keeping notes. A group project where we also built a custom testing framework"
+          }
         />
       </div>
     </div>

@@ -1,0 +1,16 @@
+.project-container {
+  /* border-style: solid; */
+  width: 25%;
+  text-align: center;
+  padding-top: ;
+}
+
+.project-image {
+  height: 50%;
+  width: 100%;
+}
+
+.project-description {
+  font-family: "Raleway", sans-serif;
+  line-height: 140%;
+}
