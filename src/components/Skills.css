@@ -22,5 +22,8 @@
 
 .tech-skills {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  width: 400px;
+  height: 200px;
+  flex-wrap: wrap;
 }

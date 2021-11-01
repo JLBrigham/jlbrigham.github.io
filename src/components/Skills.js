@@ -33,16 +33,36 @@ function Skills() {
         <div className="tech-skills-container">
           <h2>Tech I have experience with:</h2>
           <div className="tech-skills">
-            <TechSkill skill={"HTML"} />
-            <TechSkill skill={"CSS"} />
-            <TechSkill skill={"JavaScript"} />
-            <TechSkill skill={"Ruby/Rails"} />
-            <TechSkill skill={"React"} />
-            <TechSkill skill={"React Native"} />
-            <TechSkill skill={"Express.js"} />
-            <TechSkill skill={"Git"} />
-            <TechSkill skill={"PostSQL"} />
-            <TechSkill skill={"MongoDB"} />
+            <div>
+              <TechSkill skill={"HTML"} />{" "}
+            </div>
+            <div>
+              <TechSkill skill={"CSS"} />{" "}
+            </div>
+            <div>
+              <TechSkill skill={"JavaScript"} />{" "}
+            </div>
+            <div>
+              <TechSkill skill={"Ruby/Rails"} />
+            </div>
+            <div>
+              <TechSkill skill={"React"} />
+            </div>
+            <div>
+              <TechSkill skill={"React Native"} />
+            </div>
+            <div>
+              <TechSkill skill={"Express.js"} />
+            </div>
+            <div>
+              <TechSkill skill={"Git"} />
+            </div>
+            <div>
+              <TechSkill skill={"PostgreSQL"} />
+            </div>
+            <div>
+              <TechSkill skill={"MongoDB"} />
+            </div>
           </div>
         </div>
       </div>
