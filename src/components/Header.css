@@ -4,7 +4,7 @@
   overflow: hidden;
   position: fixed;
   width: 100%;
-  /* background-color: #989da6; */
+  /* background-color: #989da6; grey */
   background-color: #496772;
   top: 0;
   height: 50px;
@@ -24,6 +24,7 @@
   list-style-type: none;
   font-family: "Raleway", sans-serif;
   color: #d4e8dc;
+
   padding-right: 10px;
   cursor: pointer;
 }

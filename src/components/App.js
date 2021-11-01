@@ -3,6 +3,9 @@ import About from "./About";
 import Header from "./Header";
 import Skills from "./Skills";
 import Blog from "./Blog";
+import Hobbies from "./Hobbies";
+import Projects from "./Projects";
+import Experience from "./Experience";
 import "./App.css";
 
 function App() {
@@ -18,7 +21,10 @@ function App() {
           }
         />
         <Skills />
+        <Projects />
+        <Experience />
         <Blog />
+        <Hobbies />
       </div>
     </div>
   );

@@ -28,8 +28,24 @@ function Header() {
           </Link>
         </li>
         <li className="header-item">
+          <Link to="projects" spy={true} smooth={true}>
+            Projects
+          </Link>
+        </li>
+        <li className="header-item">
+          <Link to="experience" spy={true} smooth={true}>
+            Experience
+          </Link>
+        </li>
+        <li className="header-item">
           <Link to="blog" spy={true} smooth={true}>
             Blog
+          </Link>
+        </li>
+
+        <li className="header-item">
+          <Link to="hobbies" spy={true} smooth={true}>
+            Hobbies
           </Link>
         </li>
         <li className="header-item">{time}</li>
