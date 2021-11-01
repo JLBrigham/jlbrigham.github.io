@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-// import { Navbar, Container, Nav } from "react-bootstrap";
 import { Link } from "react-scroll";
-// import Time from "./Time";
 import "./Header.css";
 
 function Header() {

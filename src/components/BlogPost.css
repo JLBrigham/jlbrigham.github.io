@@ -1,0 +1,24 @@
+.blog-post-box {
+  border-style: solid;
+  border-color: #496772;
+  width: 220px;
+  border-radius: 5%;
+  background-color: #d4e8dc;
+  text-align: center;
+}
+
+.blog-post-link {
+  padding: 20px;
+  font-family: "Raleway", sans-serif;
+}
+
+.blog-post-anchor,
+.blog-post-anchor:visited,
+.blog-post-anchor:active {
+  text-decoration: none;
+  color: #989da6;
+}
+
+.blog-post-anchor:hover {
+  color: #496772;
+}
