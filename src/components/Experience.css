@@ -1,0 +1,15 @@
+.experience {
+  width: 100%;
+  height: 916px;
+  font-family: "Julius Sans One", sans-serif;
+  color: #989da6;
+}
+
+.experience-title-container {
+  display: flex;
+  justify-content: center;
+}
+
+.experience-title {
+  padding-top: 100px;
+}
