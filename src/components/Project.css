@@ -2,7 +2,6 @@
   /* border-style: solid; */
   width: 25%;
   text-align: center;
-  padding-top: ;
 }
 
 .project-image {
@@ -13,4 +12,10 @@
 .project-description {
   font-family: "Raleway", sans-serif;
   line-height: 140%;
+}
+
+.project-anchor,
+.project-anchor:visited {
+  text-decoration: none;
+  color: #989da6;
 }

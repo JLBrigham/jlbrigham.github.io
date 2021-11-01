@@ -10,6 +10,7 @@ function Projects() {
       </div>
       <div className="projects-container">
         <Project
+          href={"https://github.com/JLBrigham/Grappitude"}
           img={"/grappitude.png"}
           title={"Grappitude"}
           description={
@@ -17,13 +18,15 @@ function Projects() {
           }
         />
         <Project
+          href={"https://github.com/JLBrigham/chitter-challenge"}
           img={"/chitter.png"}
           title={"Chitter"}
           description={
-            "A Twitter clone, full-stack, CRUD web app built with Ruby, Sinatra, PostgreSQL and Rspec and Capybara for testing. This was a solo project and an early example of me developing my CSS skills."
+            "A Twitter clone, full-stack, CRUD web app built with Ruby, Sinatra, PostgreSQL and RSpec and Capybara for testing. This was a solo project and an early example of me developing my CSS skills."
           }
         />
         <Project
+          href={"https://github.com/JLBrigham/notes"}
           img={"/notes.jpeg"}
           title={"Note Taker"}
           description={
