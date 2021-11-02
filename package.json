@@ -2,7 +2,7 @@
   "name": "joannabrigham",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jlbrigham.github.io",
+  "homepage": "http://jlbrigham.github.io/joannabrigham",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
