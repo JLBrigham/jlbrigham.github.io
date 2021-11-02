@@ -1,0 +1,10 @@
+.section-title-container {
+  display: flex;
+  justify-content: center;
+}
+
+.section-title {
+  padding-top: 100px;
+  font-family: "Julius Sans One", sans-serif;
+  color: #989da6;
+}
