@@ -1,0 +1,12 @@
+.subheading-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+}
+
+.subheading-text {
+  font-family: "Raleway", sans-serif;
+  color: #989da6;
+  font-size: 1.25em;
+  margin-top: 10px;
+}

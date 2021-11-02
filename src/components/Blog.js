@@ -1,18 +1,18 @@
 import React from "react";
 import BlogPost from "./BlogPost";
 import SectionTitle from "./SectionTitle";
+import SubTitle from "./SubTitle";
 import "./Blog.css";
 
 function Blog() {
   return (
     <div className="blog" id="blog">
       <SectionTitle title={"Blog"} />
-      <div className="blog-subheading-container">
-        <p className="blog-subheading">
-          I've been keeping a blog to record my journey as a software developer,
-          here a some featured posts
-        </p>
-      </div>
+      <SubTitle
+        text={
+          "I have been keeping a blog to record my journey as a software developer, here are some recent posts"
+        }
+      />
       <div className="blog-post-container">
         <BlogPost
           link={

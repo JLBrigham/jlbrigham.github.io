@@ -1,5 +1,6 @@
 import React from "react";
 import SectionTitle from "./SectionTitle";
+import SubTitle from "./SubTitle";
 import Skill from "./Skill";
 import TechSkill from "./TechSkill";
 import "./Skills.css";
@@ -8,6 +9,7 @@ function Skills() {
   return (
     <div className="skills" id="skills">
       <SectionTitle title={"Skills"} />
+      <SubTitle text={"Both soft and technical"} />
       <div className="skills-container">
         <div className="soft-skills-container">
           <Skill
