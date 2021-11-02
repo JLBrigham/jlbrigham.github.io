@@ -12,19 +12,19 @@ function Hobbies() {
 
       <div className="hobbies-container">
         <Hobby
-          img={"/golfclub.jpeg"}
+          img={"/dogs.jpeg"}
           description={
             "Hanging out with my dogs, two Boston Terriers named Norman and Ronnie"
           }
         />
         <Hobby
-          img={"/lauterbrunnen.jpeg"}
+          img={"/golfclub.jpeg"}
           description={
             "Drawing, painting and crafting using upcycled materials"
           }
         />
         <Hobby
-          img={"/wayside.jpeg"}
+          img={"/lesgets.jpeg"}
           description={
             "In the summer I love to hike, trail run and wild camp. In the winter I ski and ski tour."
           }
