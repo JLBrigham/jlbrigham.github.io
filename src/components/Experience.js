@@ -5,7 +5,7 @@ import "./Experience.css";
 function Experience() {
   return (
     <div className="experience" id="experience">
-      <SectionTitle title={"Experience - Coming Soon . . . "} />
+      <SectionTitle title={"Experience - Coming Soon . . ."} />
     </div>
   );
 }
