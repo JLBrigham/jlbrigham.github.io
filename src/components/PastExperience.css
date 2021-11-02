@@ -1,0 +1,39 @@
+.past-experience {
+  max-width: 600px;
+  margin: 1rem;
+}
+
+.experience-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  cursor: pointer;
+  background-color: #d4e8dc;
+}
+
+.experience-title:hover {
+  background-color: #d4e8dc;
+}
+
+.experience-title,
+.experience-content {
+  padding: 1rem;
+}
+
+.experience-content {
+  background-color: #d4e8dc;
+  font-family: "Raleway", sans-serif;
+  white-space: pre-wrap;
+}
+
+.experience-item {
+  width: 500px;
+}
+
+.job-title {
+  margin: 0;
+}
+
+.job-company {
+  margin: 0;
+}

@@ -13,3 +13,9 @@
 .experience-title {
   padding-top: 100px;
 }
+
+.past-experience-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
