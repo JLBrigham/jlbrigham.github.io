@@ -1,0 +1,14 @@
+.hobby-container {
+  width: 25%;
+  text-align: center;
+}
+
+.hobby-image {
+  height: 60%;
+  width: 100%;
+}
+
+.hobby-description {
+  font-family: "Raleway", sans-serif;
+  line-height: 140%;
+}
