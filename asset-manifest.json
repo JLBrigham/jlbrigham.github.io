@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/joannabrigham/static/css/main.0c5e21f6.chunk.css",
-    "main.js": "/joannabrigham/static/js/main.726d6117.chunk.js",
-    "main.js.map": "/joannabrigham/static/js/main.726d6117.chunk.js.map",
+    "main.css": "/joannabrigham/static/css/main.a3a3b3db.chunk.css",
+    "main.js": "/joannabrigham/static/js/main.25e26932.chunk.js",
+    "main.js.map": "/joannabrigham/static/js/main.25e26932.chunk.js.map",
     "runtime-main.js": "/joannabrigham/static/js/runtime-main.36362b45.js",
     "runtime-main.js.map": "/joannabrigham/static/js/runtime-main.36362b45.js.map",
-    "static/js/2.adb0f509.chunk.js": "/joannabrigham/static/js/2.adb0f509.chunk.js",
-    "static/js/2.adb0f509.chunk.js.map": "/joannabrigham/static/js/2.adb0f509.chunk.js.map",
+    "static/js/2.6ceee23a.chunk.js": "/joannabrigham/static/js/2.6ceee23a.chunk.js",
+    "static/js/2.6ceee23a.chunk.js.map": "/joannabrigham/static/js/2.6ceee23a.chunk.js.map",
     "index.html": "/joannabrigham/index.html",
-    "static/css/main.0c5e21f6.chunk.css.map": "/joannabrigham/static/css/main.0c5e21f6.chunk.css.map",
-    "static/js/2.adb0f509.chunk.js.LICENSE.txt": "/joannabrigham/static/js/2.adb0f509.chunk.js.LICENSE.txt"
+    "static/css/main.a3a3b3db.chunk.css.map": "/joannabrigham/static/css/main.a3a3b3db.chunk.css.map",
+    "static/js/2.6ceee23a.chunk.js.LICENSE.txt": "/joannabrigham/static/js/2.6ceee23a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.36362b45.js",
-    "static/js/2.adb0f509.chunk.js",
-    "static/css/main.0c5e21f6.chunk.css",
-    "static/js/main.726d6117.chunk.js"
+    "static/js/2.6ceee23a.chunk.js",
+    "static/css/main.a3a3b3db.chunk.css",
+    "static/js/main.25e26932.chunk.js"
   ]
 }
