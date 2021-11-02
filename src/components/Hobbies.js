@@ -12,7 +12,7 @@ function Hobbies() {
 
       <div className="hobbies-container">
         <Hobby
-          img={"http://JLBrigham.github.io/joannabrigham/dogs.jpeg"}
+          img={"..public/dogs.jpeg"}
           description={
             "Hanging out with my dogs, two Boston Terriers named Norman and Ronnie"
           }
