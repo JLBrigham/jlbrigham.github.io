@@ -11,8 +11,9 @@ function PastExperience(props) {
           onClick={() => setIsActive(!isActive)}
         >
           <div>
-            <h3 className="job-title">{props.job}</h3>
-            <p className="job-company">{props.company}</p>
+            {props.job}, <em className="job-company"> {props.company} </em>
+            {/* <h3 className="job-title">{props.job}</h3> */}
+            {/* <p className="job-company">{props.company}</p> */}
           </div>
           <div>{isActive ? "-" : "+"}</div>
         </div>

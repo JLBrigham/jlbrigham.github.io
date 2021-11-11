@@ -9,8 +9,8 @@ function Experience() {
       <SectionTitle title={"Experience - Work In Progress . . ."} />
       <div className="past-experience-container">
         <PastExperience
-          job={"Operations Executive and Airport Manager"}
-          company={"Crystal Ski- TUI Group"}
+          job={"Operations Executive and Airport Manager \n"}
+          company={"Crystal Ski, TUI Group"}
           content={
             "A very varied and unpredictable role where a can-do attitude was a must. In the office attention to detail was crucial as I managed high risk compliance areas related to staffing and was responsible for ensuring overseas staff were paid correctly, liaising with payroll and completing a monthly SPF. Promoted to part of the airport management team after my first winter, I oversaw the arrival/departure of 1500 guests each week. Faced many operational challenges where the ability to communicate clearly with both colleagues and clients was vital along with the ability to think clearly in stressful situations."
           }
