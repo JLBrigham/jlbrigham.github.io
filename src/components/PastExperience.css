@@ -1,37 +1,25 @@
 .past-experience {
-  max-width: 600px;
-  margin: 1rem;
-}
-
-.experience-title {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  cursor: pointer;
   background-color: #d4e8dc;
-}
-
-.experience-title:hover {
-  background-color: #d4e8dc;
-}
-
-.experience-title,
-.experience-content {
-  padding: 1rem;
-}
-
-.experience-content {
-  background-color: #d4e8dc;
-  font-family: "Raleway", sans-serif;
-  white-space: pre-wrap;
-}
-
-.experience-item {
-  width: 500px;
+  display: inline-block;
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  width: 300px;
+  border-radius: 8%;
+  color: #496772;
+  text-align: center;
 }
 
 .job-title {
+  font-size: 1rem;
   margin: 0;
+}
+
+.job-skills {
+  font-family: "Raleway", sans-serif;
+  line-height: 140%;
 }
 
 .job-company {

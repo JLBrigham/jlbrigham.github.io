@@ -15,7 +15,32 @@
 }
 
 .past-experience-container {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.job-experience-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  width: 65%;
+}
+
+.job-experience-top-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.job-experience-bottom-container {
+  display: flex;
+  justify-content: center;
+}
+
+.makers-div {
+  display: flex;
+  justify-content: center;
+  width: 35%;
 }

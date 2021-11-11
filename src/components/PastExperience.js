@@ -1,24 +1,15 @@
-import React, { useState } from "react";
+import React from "react";
 import "./PastExperience.css";
 
 function PastExperience(props) {
-  const [isActive, setIsActive] = useState(false);
   return (
     <div className="past-experience">
-      <div className="experience-item">
-        <div
-          className="experience-title"
-          onClick={() => setIsActive(!isActive)}
-        >
-          <div>
-            {props.job}, <em className="job-company"> {props.company} </em>
-            {/* <h3 className="job-title">{props.job}</h3> */}
-            {/* <p className="job-company">{props.company}</p> */}
-          </div>
-          <div>{isActive ? "-" : "+"}</div>
-        </div>
-        {isActive && <div className="experience-content">{props.content}</div>}
-      </div>
+      <p className="job-title">{props.job}</p>
+      <p className="job-company">
+        {" "}
+        <em>{props.company}</em>
+      </p>
+      <p className="job-skills">{props.content}</p>
     </div>
   );
 }
