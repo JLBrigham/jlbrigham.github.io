@@ -13,10 +13,10 @@ function Hobbies() {
   ];
 
   const dogsArray = [
-    "http://JLBrigham.github.io/joannabrigham/sleepingboys.jpeg",
-    "http://JLBrigham.github.io/joannabrigham/Norman.jpeg",
-    "http://JLBrigham.github.io/joannabrigham/ronnieonrocks.jpeg",
-    "http://JLBrigham.github.io/joannabrigham/meandboys.jpeg",
+    "http://JLBrigham.github.io/joannabrigham/sleepingboys.jpg",
+    "http://JLBrigham.github.io/joannabrigham/Norman.jpg",
+    "http://JLBrigham.github.io/joannabrigham/ronnieonrocks.jpg",
+    "http://JLBrigham.github.io/joannabrigham/meandboys.jpg",
   ];
 
   const [dogs, changeDogsArray] = useState(dogsArray[1]);
