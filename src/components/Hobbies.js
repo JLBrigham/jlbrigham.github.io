@@ -12,12 +12,26 @@ function Hobbies() {
     "http://JLBrigham.github.io/joannabrigham/lauterbrunnen.jpeg",
   ];
 
+  const dogsArray = [
+    "http://JLBrigham.github.io/joannabrigham/sleepingboys.jpeg",
+    "http://JLBrigham.github.io/joannabrigham/Norman.jpeg",
+    "http://JLBrigham.github.io/joannabrigham/ronnieonrocks.jpeg",
+    "http://JLBrigham.github.io/joannabrigham/meandboys.jpeg",
+  ];
+
+  const [dogs, changeDogsArray] = useState(dogsArray[1]);
+
   const [drawing, changeDrawingArray] = useState(drawingArray[1]);
 
   function changeDrawingImage() {
     const nextDrawing =
       drawingArray[Math.floor(Math.random() * drawingArray.length)];
     changeDrawingArray(nextDrawing);
+  }
+
+  function changeDogsImage() {
+    const nextDog = dogsArray[Math.floor(Math.random() * dogsArray.length)];
+    changeDogsArray(nextDog);
   }
 
   return (
@@ -31,10 +45,11 @@ function Hobbies() {
 
       <div className="hobbies-container">
         <Hobby
-          img={"http://JLBrigham.github.io/joannabrigham/dogs.jpeg"}
+          img={dogs}
           description={
             "Hanging out with my dogs, two Boston Terriers named Norman and Ronnie"
           }
+          onClick={() => changeDogsImage()}
         />
 
         <Hobby
